@@ -30,7 +30,7 @@
     justify-content: center;
     align-items: center;
     gap: 3px;
-
+    font-weight: 600;
 }
 .nav-menu li hr{
     border: none;
