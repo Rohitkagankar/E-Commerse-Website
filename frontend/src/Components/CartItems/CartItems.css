@@ -1,0 +1,8 @@
+.cartitems{
+    margin: 80px 100px;
+}
+.cartitems hr{
+    height: 3px;
+    background: #e2e2e2;
+    border: 0;
+}
