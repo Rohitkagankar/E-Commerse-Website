@@ -73,7 +73,7 @@
         font-size: 18px ;
     }
     .hero-right{
-        align-items: center;
+        /* align-items: center; */
     }
     .hero-right img{
         width: 500px;
