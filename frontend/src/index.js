@@ -11,3 +11,4 @@ root.render(
     <App />
   </ShopContextProvider>
 );
+// "start": "react-scripts start"
